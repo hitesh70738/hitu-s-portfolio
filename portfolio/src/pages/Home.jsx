@@ -12,7 +12,7 @@ function Home () {
                 <a href="https://github.com/hitesh70738" target="_blank" className="mx-5 text-warning">Github</a>
                 <a href="https://www.linkedin.com/in/hitesh-patel-70738/" className="mx-5 text-warning">LinkdIn</a>
                 <a href="mailto:hitesh70738@gmail.com" className="mx-5 text-warning">Email</a>
-                <a href="./Hitesh.docx" download className="mx-5 text-warning">Resume</a>
+                <a href="./Hitesh-CV-Front-End.docx" download className="mx-5 text-warning">Resume</a>
             </footer>
         </div>
     )

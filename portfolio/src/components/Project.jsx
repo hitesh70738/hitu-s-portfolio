@@ -1,13 +1,17 @@
+import './Project.css'
+
 function Projects (props) {
     return (
-        <div>
-            <h2>{props.title}</h2>
-            <img src={props.image} alt="image" />
+        <div className="text-center my-4">
+            <h2 className='text-warning'>{props.title}</h2>
+            <img className="my-4 box" src={props.image} alt="image" />
             <br />
-            <a href={props.githubLink} target="_blank">Github</a>
-            <br />
-            <a href={props.deployedLink} target="_blank">View Project</a>
-            
+            <button type="button" className="btn btn-primary mx-5" onClick={() => window.open(props.githubLink, "_blank")}>
+                Github
+            </button>
+            <button type="button" className="btn btn-primary" onClick={() => window.open(props.deployedLink, "_blank")}>
+                View
+            </button>
         </div>
     )
 }

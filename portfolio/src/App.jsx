@@ -7,6 +7,7 @@ import Home from './pages/Home';
 import ProjectGallery from './pages/ProjectGallery';
 
 
+
 function App() {
   return (
   <Router>

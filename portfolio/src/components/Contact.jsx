@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import './Contact.css'
 
 function Contact() {
   const [email, setEmail] = useState('');
@@ -20,12 +21,12 @@ function Contact() {
   }
 
   return (
-    <div>
+    <div className="container size">
       <form>
         <div className="form-group">
-          <label htmlFor="exampleInputEmail1">
+          <h2 className='text-warning text-center' for="exampleInputEmail1">
             Enter your Email and Phone number and we will get back to you
-          </label>
+          </h2>
           <input
             type="email"
             className="form-control"

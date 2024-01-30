@@ -1,11 +1,15 @@
 body {
     background-image: url('https://preview.redd.it/09lyatts0xd61.png?width=1080&crop=smart&auto=webp&s=78e945bb86ba678fd860b28699c24f82a68b3ce5');
-    margin: 0;
-    padding: 0;
     background-repeat: no-repeat;
     background-size: cover;
 
 } 
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
 
 h1{
     margin-bottom: 20px;
@@ -13,7 +17,8 @@ h1{
 }
 
 .home-container {
-    margin-top: 100px;
+    margin-top: 20px;
+    height: 100%;
 }
 
 img {

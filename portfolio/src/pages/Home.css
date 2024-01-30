@@ -17,7 +17,7 @@ h1{
 }
 
 .home-container {
-    margin-top: 20px;
+    margin: 0 auto;
     min-height: calc(100vh - 80px); /* Adjusted margin for footer */
     box-sizing: border-box; /* Include padding and border in height calculation */
 }
@@ -28,7 +28,7 @@ img {
 
 p {
     margin-top: 20px;
-    font-size: xx-large;
+    font-size: x-large;
     color: yellow;
 }
 

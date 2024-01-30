@@ -11,6 +11,12 @@ I used the activites and help from the assistance for this task. Going over the 
 
 ## Screenshot
 
-<img src=“” alt=“”>
+<img src="../hitu-s-portfolio/portfolio/src/images/home-page.png" alt=“home-page”>
+
+<img src="../hitu-s-portfolio/portfolio/src/images/project-page.png" alt=“project-page”>
+
+<img src="../hitu-s-portfolio/portfolio/src/images/contact.png" alt=“contact-page”>
 
 ## Deployed application
+
+https://hitesh70738.github.io/hitu-s-portfolio/

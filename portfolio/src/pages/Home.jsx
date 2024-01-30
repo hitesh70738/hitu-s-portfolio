@@ -7,7 +7,7 @@ function Home () {
             <h1>Hitesh Patel</h1>
             <img src="https://png.pngtree.com/background/20230528/original/pngtree-an-animated-face-of-a-boy-with-headphones-picture-image_2781319.jpg" alt="profile picture" />
             <p>Welcome to my Portfolio. You will get to see the projects I have worked on</p>
-        
+            <p>Proficient in front-end development with a robust background in DevOps, I excel in integrating APIs and Bootstrap for dynamic user interfaces. Skilled in JavaScript, HTML, CSS, and React</p>
             <footer className="my-5">
                 <a href="https://github.com/hitesh70738" target="_blank" className="mx-5 text-warning">Github</a>
                 <a href="https://www.linkedin.com/in/hitesh-patel-70738/" className="mx-5 text-warning">LinkdIn</a>
